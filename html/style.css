@@ -1,0 +1,41 @@
+#first{
+    height: 10vh;
+    width: 7vw;
+    background-color: aquamarine;
+    border: 2px solid red;
+    display: inline-block;
+    margin-top: 2px;
+    margin-left: 2px;
+}
+#second{
+    height: 10vh;
+    width: 72.5vw;
+    background-color: aqua;
+    display: inline-block;
+    border: 2px solid red;
+}
+#third{
+    height: 10vh;
+    width: 80vw;
+    background-color: aqua;
+    display: inline-block;
+    margin-left: 2px;
+    border: 2px solid red;
+    margin-top: 2px;
+}
+.main{
+    background-color: rgb(231, 231, 148);
+    display: inline-block;
+    height: 23vh;
+    width: 81vw;
+    border: 1px solid black;
+}
+#one{
+    height: 9vh;
+    width: 17vw;
+    background-color: yellow;
+    display: inline-block;
+    margin-top: 2px;
+    margin-left: 2vw;
+    border: 1px solid black;
+}
